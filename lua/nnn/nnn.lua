@@ -1,5 +1,3 @@
--- ~/.local/share/nvim/lazy/nnn_file_browser.nvim/lua/plugins/file_browser.lua
-
 local M = {}
 
 function M.open_nnn_browser()
@@ -22,4 +20,3 @@ function M.open_nnn_browser()
 end
 
 return M
-

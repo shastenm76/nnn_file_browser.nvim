@@ -1,4 +1,3 @@
-
 local M = {}
 
 function M.open_nnn_browser()
@@ -21,3 +20,4 @@ function M.open_nnn_browser()
 end
 
 return M
+
